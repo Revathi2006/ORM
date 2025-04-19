@@ -44,4 +44,4 @@ class StudentAdmin(admin.ModelAdmin):
 ![alt text](<Screenshot (65).png>)
 
 ## RESULT
-Thus the program for creating movies database using ORM hass been executed successfully
+Thus the program for creating students database using ORM hass been executed successfully
